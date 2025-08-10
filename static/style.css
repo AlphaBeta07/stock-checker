@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to right, #f7d9e3, #fce4ec);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #c2185b;
+    text-shadow: 1px 1px 2px rgba(194, 24, 91, 0.3);
+}
+
+.card {
+    background-color: white;
+    border-radius: 12px;
+}
+
+.btn-primary {
+    background-color: #c2185b;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #ad1457;
+}
+
+.btn-success {
+    background-color: #4caf50;
+    border: none;
+}
+.btn-success:hover {
+    background-color: #388e3c;
+}
+
+.list-group-item {
+    background-color: #fffafc;
+    border: 1px solid #f8bbd0;
+}
+
+.list-group-item button {
+    margin-left: 5px;
+}
+
+#totalValue {
+    font-size: 1.2rem;
+    color: #4a148c;
+}
+
+.title {
+    font-weight: bold;
+    color: #4caf50;
+}
+
+table {
+    background: white;
+}
+
+thead th {
+    background-color: #4caf50 !important;
+    color: white;
+}
